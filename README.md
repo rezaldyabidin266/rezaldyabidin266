@@ -11,7 +11,11 @@
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="/>
             <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
-          <img src=""/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
+         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NuGet&color=004880&logo=NuGet&logoColor=FFFFFF&label="/>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label="/>
+      <img src=""/>
+       <img src=""/>
     </p>
 </p>
 
