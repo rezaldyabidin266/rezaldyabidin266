@@ -49,7 +49,7 @@
 </p>
 
 <br/>
-![Freelancer](https://img.shields.io/static/v1?style=for-the-badge&message=Freelancer&color=222222&logo=Freelancer&logoColor=29B2FE&label=)
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freelancer&color=222222&logo=Freelancer&logoColor=29B2FE&label="/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaldyabidin266&layout=compact&show_icons=true&theme=radical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
