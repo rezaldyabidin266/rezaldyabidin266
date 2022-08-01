@@ -43,8 +43,10 @@
 
 <h3>🤓 About Me 😎</h3>
 <br/>
-<p>👓 I'm Rezal. 20 Years Old, Glasses, Lover of code and 🎮🔫.</p><br/>
-<p>🏠 I live in Bogor, Indonesia.</p>
+<p>👓 I'm Rezal. 20 Years Old, Glasses, Lover of code and 🎮🔫.<br/>
+   🏠 I live in Bogor, Indonesia.
+</p>
+<p></p>
 <p>💻 Web developer >< Blazor x Angular.</p>
 <p> ℹ  Just so you know I can't pronounce the 'R' properly.</p>
 
