@@ -17,6 +17,7 @@
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label="/>
        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label="/>
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiper&color=6332F6&logo=Swiper&logoColor=FFFFFF&label=" />
     </p>
 </p>
 
