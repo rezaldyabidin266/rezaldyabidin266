@@ -42,7 +42,7 @@
 </p>
 
 <h3>🤓 About Me 😎</h3></br>
-<p>👓 I'm Rezal. 20 Years Old, Glasses, Lover of code and 🎮🔫.<br/>
+<p>👓 I'm Rezal. 20 Years Old, Glasses, Lover of code and 🎮🔫<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Counter-Strike&color=000000&logo=Counter-Strike&logoColor=FFFFFF&label="/>.<br/>
    🏠 I live in Bogor, Indonesia.<br/>
    💻 Web developer >< Blazor x Angular.<br/>
    ℹ  Just so you know I can't pronounce the 'R' properly.<br/>
