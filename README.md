@@ -34,4 +34,11 @@
   <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label="/></a>
+     <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
+    <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
+      <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label="/></a>
+        <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
+       <a href=""><img src=""/></a>
+  
 </p>
