@@ -48,4 +48,3 @@
    ℹ  Just so you know I can't pronounce the 'R' properly.<br/>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rezaldyabidin266)](https://github.com/anuraghazra/github-readme-stats)
