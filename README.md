@@ -40,3 +40,5 @@
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label="/></a>
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
 </p>
+
+<h5>👓 a little about me 👓</h5>
