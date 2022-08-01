@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord[](url)"/>
+     <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"/>
   </p>
 </p>
 <p>
