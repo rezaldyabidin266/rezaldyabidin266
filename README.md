@@ -48,4 +48,4 @@
    ℹ  Just so you know I can't pronounce the 'R' properly.<br/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaldyabidin266&layout=compact&show_icons=true&theme=radical&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaldyabidin266&layout=compact&show_icons=true&theme=radical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
