@@ -41,8 +41,7 @@
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
 </p>
 
-<h3>🤓 About Me 😎</h3>
-<br/>
+<h3>🤓 About Me 😎</h3></br>
 <p>👓 I'm Rezal. 20 Years Old, Glasses, Lover of code and 🎮🔫.<br/>
    🏠 I live in Bogor, Indonesia.<br/>
    💻 Web developer >< Blazor x Angular.<br/>
