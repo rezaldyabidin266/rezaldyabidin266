@@ -41,4 +41,4 @@
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
 </p>
 
-<h3>👓 A little About me 👓</h3>
+<h3>🤓 About Me 👓</h3>
