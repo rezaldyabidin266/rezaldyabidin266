@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=rezaldyabidin266&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=rezaldyabidin266&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
    ⚡ Commonly Used Technology
     <p>
        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
