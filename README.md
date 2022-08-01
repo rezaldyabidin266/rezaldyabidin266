@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
      <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"/>
-    <img src="https://img.shields.io/badge/Blazor?style=flat-square&logo=Blazor&logoColor=red"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
   </p>
 </p>
 <p>
