@@ -32,13 +32,12 @@
   <a href="mailto:rezaldy266@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/rezaldy266"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/rezaldy266"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rezaldy-abidin-5698b7219/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/rezaldy266"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label="/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label="/></a>
-  <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
+  <a href="https://rezaldy266.blogspot.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label="/></a>
+  <a href="https://github.com/rezaldyabidin266"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
+  <a href="https://www.linkedin.com/in/rezaldy-abidin-5698b7219/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
+  <a href="https://linktr.ee/rezaldy266"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=39E09B&label="/></a>
+  <a href="https://www.youtube.com/channel/UCs07wlIYUmPzd_4JMnKlbxg"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>
 </p>
 
