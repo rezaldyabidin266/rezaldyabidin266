@@ -2,21 +2,14 @@
   <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=rezaldyabidin266&show_icons=true&show_icons=true&theme=radical"/>
    ⚡ Commonly Used Technology
     <p>
-       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
-         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label="/>
-               <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label="/>
-                  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
-            <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="/>
-            <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
-         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
-         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NuGet&color=004880&logo=NuGet&logoColor=FFFFFF&label="/>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label="/>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label="/>
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label="/>
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiper&color=6332F6&logo=Swiper&logoColor=FFFFFF&label=" />
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label="/>      
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label="/>
+       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DevExpress&color=FF7200&logo=DevExpress&logoColor=FFFFFF&label="/>
     </p>
 </p>
 
